@@ -3,9 +3,6 @@
 A clean, data-focused dashboard demo built with **React + Vite + Tailwind v4 + Chart.js (react-chartjs-2)**.
 Includes a sidebar with navigation, mock reports (filter/export CSV), settings, and a dark/light mode toggle.
 
-**Live Demo:** (add your Vercel URL)  
-**Public Repo:** https://github.com/gianmarcozap/Dashboard-Demo
-
 ## Features
 - Sidebar navigation (Dashboard / Reports / Settings)
 - Fake login that greets **Gianmarco**
